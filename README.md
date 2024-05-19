@@ -14,7 +14,6 @@
 Skills
 
 similar as linkedin i want to have the logo of the pages and the link to them
--->
 
 
 <p align="left">
@@ -79,6 +78,12 @@ similar as linkedin i want to have the logo of the pages and the link to them
   </a>
 
 </p>
+
+
+-->
+
+
+
 
 
   <!--
